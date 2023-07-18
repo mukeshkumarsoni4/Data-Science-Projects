@@ -4,6 +4,6 @@
 Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, machine learning, and visualization.
 Projects
 # Project 1: Breast Cancer Prection
-Description: The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
-Technologies Used: The notebooks uses Decision Tree Classification and Logistic Regression
-Results: The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
+1. Description: The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
+2. Technologies Used: The notebooks uses Classification and Logistic Regression Model
+3. Results: The logistic regression gave 97% accuracy and Naive Bayes gave 96.5% accuracy
