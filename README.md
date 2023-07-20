@@ -6,4 +6,4 @@ Projects
 # [Project 1: Breast Cancer Prection](https://mukeshkumarsoni4.github.io/Data-Science-Projects)
 1. Description: The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
 2. Technologies Used: The notebooks uses Classification and Logistic Regression Model
-3. Results: The logistic regression gave 97% accuracy and Naive Bayes gave 96.5% accuracy
+3. Results: The logistic regression gave 96% accuracy and Naive Bayes gave 97.5% accuracy
